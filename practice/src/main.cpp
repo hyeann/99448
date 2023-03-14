@@ -20,3 +20,4 @@ while(true){
   task::sleep(20);
 }
 }
+//shiori is not dumb!!!!! Sarang is not dumb...?
